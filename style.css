@@ -1,0 +1,10 @@
+body {font-family: Arial, Helvetica, sans-serif; margin-top: 30px; margin-bottom: 30px; margin-left: 30px; margin-right: 30px;}
+.name {font-size: 35px;}
+.profession {font-size: 20px; color: lightslategray;}
+.address {color: lightslategray;}
+.section {font-family: Arial, Helvetica, sans-serif; font-size: 17px; font-weight: bold;background-color: lightgray; padding: 2px; border: 2px solid;}
+.role  {font-weight: bold;}
+.location {}
+.period {color: lightslategray; text-align: right; font-style: italic;}
+.description {font-style: italic;color: lightslategray;}
+ul {margin-right: 50px; margin-top: 5px; margin-bottom: 5px;}
